@@ -52,7 +52,7 @@ The  portal can support the following service categories:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/interswitch-payment.git
+   git clone https://github.com/nkukehenry/isw-metro-pay
    cd interswitch-payment
    ```
 
