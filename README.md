@@ -65,22 +65,14 @@ The can portal supports the following service categories:
    yarn install
    ```
 
-3. **Set up Interswitch credentials**
-   Create a `.env.local` file in the root directory and add your Interswitch credentials:
-   ```
-   NEXT_PUBLIC_INTERSWITCH_MERCHANT_ID=your_merchant_id
-   NEXT_PUBLIC_INTERSWITCH_API_KEY=your_api_key
-   NEXT_PUBLIC_INTERSWITCH_ENVIRONMENT=sandbox/production
-   ```
-
-4. **Run the development server**
+3. **Run the development server**
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    Visit `http://localhost:3000` to see the application running.
 
 ## Project Structure
