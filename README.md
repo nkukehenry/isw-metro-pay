@@ -5,18 +5,18 @@ A modern payment portal built with Next.js, TypeScript, and Tailwind CSS, integr
 ## Features
 ## Product Categories
 
-The can portal supports the following service categories:
+The  portal can support the following service categories:
 
 - **Telecommunications**
   - Airtime
   - Data Bundles
-  - SIM Cards
+  - SIM Cards Purchase
   - Mobile Money
 
 - **Transport & Logistics**
   - Parking Services
   - Public Transport
-  - Vehicle Services
+  - Vehicle Hire Orders
   - Logistics Payments
 
 - **Financial Services**
@@ -28,8 +28,8 @@ The can portal supports the following service categories:
 - **Government Services**
   - Tax Payments
   - License Fees
-  - Permit Applications
-  - Government Bills
+  - Driving Licence Payments
+  - Other Government Bills
 
 - **Utilities**
   - Electricity
@@ -38,7 +38,6 @@ The can portal supports the following service categories:
   - TV Subscriptions
 
 - **Retail & Commerce**
-  - Online Shopping
   - Digital Goods
   - Subscription Services
   - Event Tickets
@@ -48,7 +47,6 @@ The can portal supports the following service categories:
 - Node.js 18.x or later
 - npm or yarn package manager
 - Git
-- Interswitch East Africa Merchant Account
 
 ## Getting Started
 
