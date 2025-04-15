@@ -95,14 +95,12 @@ interswitch-payment/
 - **TypeScript**: Type-safe JavaScript
 - **Tailwind CSS**: Utility-first CSS framework
 - **Framer Motion**: Animation library
-- **Interswitch API**: Payment processing integration
 
 ## Development
 
 - **Code Formatting**: Uses Prettier for consistent code style
 - **Type Checking**: TypeScript for type safety
 - **Linting**: ESLint for code quality
-- **API Integration**: Interswitch East Africa payment gateway
 
 ## Building for Production
 
