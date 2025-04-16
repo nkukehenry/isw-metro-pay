@@ -51,7 +51,7 @@ export default function Payment({ onSelectMethod, selectedMethod, onBack }: Paym
     }
     setIsProcessing(true)
     onSelectMethod("mobile")
-  }
+  };
 
   return (
     <div className="space-y-6">
@@ -214,7 +214,7 @@ export default function Payment({ onSelectMethod, selectedMethod, onBack }: Paym
                   </div>
                 ) : selectedMethod === "mobile" ? (
                   <div className="flex flex-col items-center justify-center space-y-6">
-                    {!isProcessing ? (
+                    {selectedMethod === "mobile" ? (
                       <>
                         <div className="w-full max-w-md space-y-4">
                           <div>
